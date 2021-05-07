@@ -19,7 +19,7 @@ The purpose of this analysis is to better understand the correlation between the
 * Do the guests who have previously cancelled more likely to cancel again?
 
 ### Further topic to explore
-Cancelations are undesirable, but No-Shows (customers did not check-in and did inform the hotel of the reason why) are even more troublesome for hotels, because if with enough time in between arrival & cancelation, hotels are more likely to resell the rooms. 
+Cancelations are undesirable, but No-Shows (customers did not check-in and did not inform the hotel of the reason why) are even more troublesome for hotels, because if with enough time in between arrival & cancelation, hotels are more likely to resell the rooms. 
 The focus of this analysis is on cancelation, however a deep dive on what correlates with No-Show could be beneficial & practical to hotel revenue management. 
 
 ## Approach 
